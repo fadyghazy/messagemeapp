@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216292623230",
+    "project_id": "messagemeproject",
+    "storage_bucket": "messagemeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216292623230:android:f4bb9d3921ac4074e9692f",
+        "android_client_info": {
+          "package_name": "com.fady.messagemeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216292623230-naoqmcse73fu1g7979em1jpfml58ndmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIGNb5wBAiI5bISvOQgI_CxiFWgbD-cE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216292623230-naoqmcse73fu1g7979em1jpfml58ndmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
